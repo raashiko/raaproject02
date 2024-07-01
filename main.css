@@ -1,0 +1,103 @@
+body {
+    background-image: url(aset/Default_a_scene_in_the_library_with_a_flying_book_with_a_magic_1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fotologoig {
+    width: 30px;
+    height: 30px;
+    justify-content: end;
+}
+
+.info {
+    background-color: gray;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.fotologoweb {
+    width: 200px;
+    height: 200px;
+}
+
+.btn-outline-dark:hover {
+    transition: 2s;
+    transform: rotateX(360deg);
+    -webkit-transform: rotateX(360deg);
+    -moz-transform: rotateX(360deg);
+    -ms-transform: rotateX(360deg);
+    -o-transform: rotateX(360deg);
+}
+
+.img-fluid {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    
+}
+
+.img-fluid:hover {
+    transition: 2s;
+    transform: rotateY(360deg);
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -ms-transition: 2s;
+    -o-transition: 2s;
+}
+
+.card {
+    justify-content: center;
+    display: flex;
+
+}
+
+.webgua {
+     width: 40px;
+     height: 40px;
+}
+
+.navbar {
+    top: 0px;
+    left: 3px;
+    position: fixed;
+    z-index: 999;
+    width: max-content;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.btn-outline-secondary:hover {
+    transition: 2s;
+    transform: rotateY(360deg);
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -ms-transition: 2s;
+    -o-transition: 2s;
+}
+
+.ucapanselamat {
+    height: 80px;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
+
